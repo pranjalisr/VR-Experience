@@ -22,20 +22,20 @@ This project is a web-based Virtual Reality (VR) Experience application. It allo
 ## Setup Instructions
 
 1. Clone the repository:
-   \`\`\`
+
    git clone https://github.com/your-username/vr-experience.git
    cd vr-experience
-   \`\`\`
+   
 
 2. Install dependencies:
-   \`\`\`
+ 
    npm install
-   \`\`\`
+  
 
 3. Run the development server:
-   \`\`\`
+  
    npm run dev
-   \`\`\`
+   
 
 4. Open your browser and navigate to \`http://localhost:3000\` to view the application.
 
@@ -49,14 +49,6 @@ This project is a web-based Virtual Reality (VR) Experience application. It allo
 
 4. Logout: Use the logout button in the top right corner to securely log out of the application.
 
-## Future Improvements
-
-- Backend Integration: Implement Express.js server and MongoDB database for data persistence and user authentication.
-- Enhanced VR Interactions: Implement more complex interactions within the VR environment.
-- User Preferences: Allow users to save and load their preferred VR settings.
-- Multi-user Support: Enable multiple users to interact within the same VR environment.
-- VR Content Upload: Allow users to upload their own 3D models and environments.
-- Performance Optimization: Implement level-of-detail (LOD) and other optimization techniques for smoother VR experiences.
 
 ## Contributing
 
