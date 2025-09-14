@@ -63,9 +63,6 @@ The view looks like this in console
 
 
 
-## Contributing
-
-Contributions to the VR Experience project are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
