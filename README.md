@@ -23,9 +23,6 @@ This project is a web-based Virtual Reality (VR) Experience application. It allo
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/vr-experience.git
-   cd vr-experience
-   
 
 2. Install dependencies:
  
@@ -48,6 +45,22 @@ This project is a web-based Virtual Reality (VR) Experience application. It allo
 3. Content Management: Click the "Open Content Manager" button to access the content management interface. Here you can add new VR environments and objects.
 
 4. Logout: Use the logout button in the top right corner to securely log out of the application.
+
+## Output
+
+The view looks like this in console
+
+<img width="1467" height="809" alt="Screenshot 2025-09-14 at 14 44 02" src="https://github.com/user-attachments/assets/652ed1bb-6e91-4019-839e-136437e275de" />
+
+
+<img width="1467" height="809" alt="Screenshot 2025-09-14 at 14 44 27" src="https://github.com/user-attachments/assets/65db01b0-a6a2-4b4b-9b14-22a59e8b2751" />
+
+
+<img width="1467" height="809" alt="Screenshot 2025-09-14 at 14 44 57" src="https://github.com/user-attachments/assets/3e8e58c4-d214-47fa-bcfc-cda8346c3d07" />
+
+
+<img width="1467" height="809" alt="Screenshot 2025-09-14 at 14 45 08" src="https://github.com/user-attachments/assets/5ebdaaa2-25fc-474b-896f-067171f35064" />
+
 
 
 ## Contributing
