@@ -5,7 +5,7 @@ This project is a web-based Virtual Reality (VR) Experience application. It allo
 ## Features
 
 - User Authentication: Secure login system to ensure only authorized users can access the VR experience.
-- VR Scene: An interactive 3D environment rendered using Three.js and React Three Fiber.
+- VR Scene: An interactive 3D environment rendered using Three.js and React Three Fiber.hh
 - Content Management: Interface for adding and managing VR environments and objects.
 - Responsive Design: User-friendly interface that works well on both desktop and VR-capable devices.
 
